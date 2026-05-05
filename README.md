@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://fruit-slice-arena.vercel.app">🎮 Live Demo</a> •
+  <a href="https://fruit-ninja-swart.vercel.app/">🎮 Live Demo</a> •
   <a href="#features">Features</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#getting-started">Getting Started</a> •
