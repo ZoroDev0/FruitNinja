@@ -25,34 +25,34 @@
 <tr>
 <td align="center">
 <b>Home Page</b><br>
-<img src="https://github.com/user-attachments/assets/e6567dd1-ae55-4306-8c6d-0b01fbf85eed" width="350"/>
+<img src="./homepage.png"width="350"/>
 </td>
 
 <td align="center">
 <b>Gameplay</b><br>
-<img src="https://github.com/user-attachments/assets/1730b111-dad5-43c2-95c9-7e7861634d73" width="350"/>
+<img src="./gameplay.png" width="350"/>
 </td>
 
 <td align="center">
 <b>Leaderboard</b><br>
-<img src="https://via.placeholder.com/400x250?text=Leaderboard" width="350"/>
+<img src="./Leaderborad.png" width="350"/>
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <b>Community</b><br>
-<img src="https://via.placeholder.com/400x250?text=Community" width="350"/>
+<img src="./Community.png" width="350"/>
 </td>
 
 <td align="center">
 <b>About Page</b><br>
-<img src="https://github.com/user-attachments/assets/f6f97a51-0468-497b-a1f8-0c310a6cbca9" width="350"/>
+<img src="./About.png" width="350"/>
 </td>
 
 <td align="center">
 <b>Mobile View</b><br>
-<img src="https://github.com/user-attachments/assets/c655750e-c077-40bf-8d42-42c87faeed82" width="120" />
+<img src="./MobileView.png" width="120" />
 </td>
 </tr>
 </table>
